@@ -16,8 +16,6 @@ tags:
 - CSharp
 ---
 
-<a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a>
-
 In an [earlier post]({{site.url}}/posts/access-the-azure-resource-manager-virtual-machine-resources-using-arm-apis-part-1/) , I explained how **Resource VMs** can be accessed using **ARM APIs**. We used the **classic** Azure portal along with the **native** application approach to implement this. 
 
 We had to use the **classic** portal as the **new portal** was in **preview mode** and **Azure Active Directory (AAD)** was not fully integrated in the new portal.

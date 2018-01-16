@@ -16,8 +16,6 @@ tags:
 - x86
 ---
 
-<a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a>
-
 Ever wondered why Visual Studio IDE provides 3 options for compilation - `x86`, `x64` and `Any CPU` ?
 While most are aware of these options, many still lack clarity on the significance of these options (including me earlier in my career). So, as part of this article I hope to clear some of these doubts.
 

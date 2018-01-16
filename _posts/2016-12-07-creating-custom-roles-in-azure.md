@@ -18,8 +18,6 @@ tags:
 - Custom roles
 ---
 
-<a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a>
-
 In my [earlier post]({{site.url}}/posts/access-the-azure-resource-manager-virtual-machine-resources-using-arm-apis-and-the-new-azure-portal/) we saw how **Azure Resource** based **Virtual Machines** can be accessed using **ARM APIs** and a **Native** application registered in **Azure Active Directory (AAD)**.
 
 However, as part of that walkthrough, we had assigned **Reader** role to the **Native** application. This meant, that we had assigned limited **RBAC** (Role Based Access Control) privileges which allowed us to only **read** details of the Virtual Machines and other resources in Azure. 
