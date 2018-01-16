@@ -1,0 +1,21 @@
+---
+layout: single
+title: Useful Stuff
+permalink: /usefulstuff/
+---
+
+#### Cheatsheets
+* [Git commands]({{site.url}}/gitcheatsheet)
+* [Git markdown syntax]({{site.url}}/markdowncheatsheet)
+
+
+#### Keyboard shortcuts
+* [Vim editor]({{site.url}}/vimkeyboardshortcuts)
+* [Visual Studio IDE]({{site.url}}/vsidekeyboardshortcuts)
+
+
+#### Extensions
+* [Visual Studio IDE]({{site.url}}/vsideextensions)
+
+#### C\#
+* [C#.Net versions over the years]({{site.url}}/csharpnetoveryears)
