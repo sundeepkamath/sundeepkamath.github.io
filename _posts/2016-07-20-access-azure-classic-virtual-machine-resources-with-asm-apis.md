@@ -5,6 +5,8 @@ date:   2016-07-20 04:26:00 +0530
 permalink: /posts/access-azure-classic-virtual-machine-resources-with-asm-apis/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: 
 - Azure
 tags:

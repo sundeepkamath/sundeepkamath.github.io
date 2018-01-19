@@ -5,6 +5,8 @@ date:   2016-10-15 14:37:00 +0530
 permalink: /posts/difference-between-int32parse-converttoint32-and-int32tryparse/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: 
 - CSharp
 tags:

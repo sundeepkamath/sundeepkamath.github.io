@@ -4,6 +4,8 @@ title: Authentication in ASP.Net MVC 5 using Identity Libraries - Part 1
 permalink: /posts/authentication-in-asp-net-mvc-5-using-identity-libraries-part-1/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories:
 - ASP.Net
 - Web

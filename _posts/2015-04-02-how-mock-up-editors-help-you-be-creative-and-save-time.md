@@ -4,6 +4,8 @@ title: How Mock up editors help you be creative and save time
 permalink: /posts/how-mock-up-editors-help-you-be-creative-and-save-time/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories: Tools
 tags:
 - Mockup

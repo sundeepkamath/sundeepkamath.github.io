@@ -5,6 +5,8 @@ date:   2016-03-23 17:48:25 +0530
 permalink: /posts/creating-self-signed-certificates/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: Certificates
 ---
 I've had to create self-signed certificates on quite a few occasions over the years.  

@@ -4,6 +4,8 @@ title: Way to go Microsoft!!
 permalink: /posts/way-to-go-microsoft/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories: Microsoft
 tags:
 - .Net

@@ -5,6 +5,8 @@ date:   2016-12-06 05:21:00 +0530
 permalink: /posts/access-the-azure-resource-manager-virtual-machine-resources-using-arm-apis-and-the-new-azure-portal/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: 
 - Azure
 - CSharp

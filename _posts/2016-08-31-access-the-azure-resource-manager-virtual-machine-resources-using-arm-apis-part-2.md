@@ -5,6 +5,8 @@ date:   2016-08-31 11:15:00 +0530
 permalink: /posts/access-the-azure-resource-manager-virtual-machine-resources-using-arm-apis-part-2/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: 
 - Azure
 - Microsoft

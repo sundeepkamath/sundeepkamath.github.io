@@ -4,6 +4,8 @@ title: Eagerly loading related entities in Entity Framework
 permalink: /posts/eagerly-loading-related-entities-in-entity-framework/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories: Entity Framework
 tags:
 - CSharp

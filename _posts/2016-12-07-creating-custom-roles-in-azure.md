@@ -5,6 +5,8 @@ date: 2016-12-07 10:28:00 +0530
 permalink: /posts/creating-custom-roles-in-azure/
 author_profile: true
 comments: true
+toc: true
+toc_label: "Contents"
 categories: 
 - Azure
 - CSharp

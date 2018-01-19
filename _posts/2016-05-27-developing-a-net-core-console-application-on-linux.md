@@ -5,6 +5,8 @@ date:   2016-05-27 09:11:00 +0530
 permalink: /posts/developing-a-net-core-console-application-on-linux/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories: 
 - .Net Core
 - Linux

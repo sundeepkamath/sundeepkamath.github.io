@@ -4,6 +4,8 @@ title: Web design templates for your website
 permalink: /posts/web-design-templates-for-your-website/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories: web
 tags:
 - bootstrap

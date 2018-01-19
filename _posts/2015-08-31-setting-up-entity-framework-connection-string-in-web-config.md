@@ -4,6 +4,8 @@ title: Setting up Entity Framework connection string in web.config
 permalink: /posts/setting-up-entity-framework-connection-string-in-web-config/
 author_profile: true
 comments: true
+toc: false
+toc_label: "Contents"
 categories:
 - ASP.Net
 - Entity Framework 
