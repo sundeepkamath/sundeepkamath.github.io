@@ -3,6 +3,7 @@ layout: single
 title: Converting UTC date time from server to local date time on the browser client using JavaScript
 permalink: /posts/javascript-converting-utc-date-time-from-server-to-local-date-time-on-the-browser-client/
 author_profile: true
+comments: true
 categories:
 - ASP.Net
 - I18N

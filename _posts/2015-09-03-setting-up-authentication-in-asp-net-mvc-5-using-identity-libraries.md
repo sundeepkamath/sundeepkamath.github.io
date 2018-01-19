@@ -3,6 +3,7 @@ layout: single
 title: Setting up authentication in ASP.Net MVC 5 using Identity libraries
 permalink: /posts/setting-up-authentication-in-asp-net-mvc-5-using-identity-libraries/
 author_profile: true
+comments: true
 categories:
 - ASP.Net
 tags:

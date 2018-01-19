@@ -4,6 +4,7 @@ title:  "Virtual Machine deployment models in Azure"
 date:   2016-07-19 04:26:00 +0530
 permalink: /posts/virtual-machine-deployment-models-in-azure/
 author_profile: true
+comments: true
 categories: 
 - Azure
 tags:

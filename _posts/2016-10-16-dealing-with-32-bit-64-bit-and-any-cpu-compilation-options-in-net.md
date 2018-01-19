@@ -4,6 +4,7 @@ title:  "Dealing with 32-bit, 64-bit and Any CPU compilation options in .Net"
 date:   2016-10-16 11:07:00 +0530
 permalink: /posts/dealing-with-32-bit-64-bit-and-any-cpu-compilation-options-in-net/
 author_profile: true
+comments: true
 categories: 
 - .Net
 tags:

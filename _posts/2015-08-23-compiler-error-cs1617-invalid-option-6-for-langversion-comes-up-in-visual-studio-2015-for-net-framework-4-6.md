@@ -3,6 +3,7 @@ layout: single
 title: Compiler error CS1617 Invalid option 6 for langversion comes up in Visual Studio 2015 for .Net Framework 4.6
 permalink: /posts/compiler-error-cs1617-invalid-option-6-for-langversion-comes-up-in-visual-studio-2015-for-net-framework-4-6/
 author_profile: true
+comments: true
 categories: 
 - ASP.Net 
 - Web

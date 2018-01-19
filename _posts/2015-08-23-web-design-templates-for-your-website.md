@@ -3,6 +3,7 @@ layout: single
 title: Web design templates for your website
 permalink: /posts/web-design-templates-for-your-website/
 author_profile: true
+comments: true
 categories: web
 tags:
 - bootstrap

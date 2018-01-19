@@ -3,6 +3,7 @@ layout: single
 title: Difference between localDb, SQL Server CE and SQL Server Express
 permalink: /posts/difference-between-localdb-sql-server-ce-and-sql-server-express/
 author_profile: true
+comments: true
 categories: 
 - SQL
 - SQL Server

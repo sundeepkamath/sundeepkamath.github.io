@@ -3,6 +3,7 @@ layout: single
 title: Way to go Microsoft!!
 permalink: /posts/way-to-go-microsoft/
 author_profile: true
+comments: true
 categories: Microsoft
 tags:
 - .Net

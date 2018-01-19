@@ -4,6 +4,7 @@ title:  "Creating self-signed certificate using makecert.exe"
 date:   2016-03-23 17:48:25 +0530
 permalink: /posts/creating-self-signed-certificates/
 author_profile: true
+comments: true
 categories: Certificates
 ---
 I've had to create self-signed certificates on quite a few occasions over the years.  

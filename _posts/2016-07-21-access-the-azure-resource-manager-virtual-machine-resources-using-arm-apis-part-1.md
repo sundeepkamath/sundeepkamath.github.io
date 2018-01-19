@@ -4,6 +4,7 @@ title:  "Access the Azure Resource Manager Virtual Machine resources using ARM A
 date:   2016-07-21 16:23:00 +0530
 permalink: /posts/access-the-azure-resource-manager-virtual-machine-resources-using-arm-apis-part-1/
 author_profile: true
+comments: true
 categories: 
 - Azure
 tags:

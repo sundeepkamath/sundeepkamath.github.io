@@ -4,6 +4,7 @@ title:  "Determine platform affinity 32 bit, 64 bit or Any CPU for a managed .Ne
 date:   2016-10-17 16:36:00 +0530
 permalink: /posts/determine-platform-affinity-32-bit-64-bit-or-any-cpu-for-a-managed-net-pe/
 author_profile: true
+comments: true
 categories: 
 - .Net
 - CodeProject

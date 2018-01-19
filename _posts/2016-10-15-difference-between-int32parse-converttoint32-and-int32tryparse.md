@@ -4,6 +4,7 @@ title:  "Difference between Int32.Parse, Convert.ToInt32 and Int32.TryParse"
 date:   2016-10-15 14:37:00 +0530
 permalink: /posts/difference-between-int32parse-converttoint32-and-int32tryparse/
 author_profile: true
+comments: true
 categories: 
 - CSharp
 tags:

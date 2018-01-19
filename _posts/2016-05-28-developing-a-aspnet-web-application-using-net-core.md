@@ -4,6 +4,7 @@ title:  "Developing a ASP.Net web application using .Net core"
 date:   2016-05-28 16:03:00 +0530
 permalink: /posts/developing-a-aspnet-web-application-using-net-core/
 author_profile: true
+comments: true
 categories: 
 - .Net Core
 - Linux
