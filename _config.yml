@@ -55,8 +55,8 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "R1vd2caf0GD1cJQ1u-nxcrzyKKNYEzl3rvwd6e3Gsio"
+bing_site_verification   : "62E2BAF4F28DB3CAEAFA86D23D3169CE"
 yandex_site_verification :
 naver_site_verification  :
 
@@ -263,3 +263,4 @@ defaults:
       layout: single
       author_profile: true
 
+search: true
