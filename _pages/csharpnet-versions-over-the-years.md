@@ -13,13 +13,17 @@ permalink: /csharpnetoveryears/
 |C# 4.0|.Net 4|VS 2010|April 2010|late binding (dynamic), delegate and interface generic variance, more COM support, named arguments, tuple data type and optional parameters.|  
 |C# 5.0|.Net 4.5|VS 2012|August 2012|async programming, caller info attributes, Breaking change: [loop variable closure](http://blogs.msdn.com/b/ericlippert/archive/2009/11/16/closing-over-the-loop-variable-part-two.aspx).|  
 |C# 6.0|.Net 4.6|VS 2015|July 2015|initializers for automatically implemented properties, using directives to import static members, exception filters, indexed members and element initializers, await in catch and finally, extension Add methods in collection initializers.|  
+|C# 7.0|.Net 4.7|VS 2017|March 2017|tuples, ref locals and ref return, pattern matching (including pattern-based switch statements), inline out parameter declarations, local functions, binary literals, digit separators, and arbitrary async returns|
+|C# 7.1|.Net 4.7|VS 2017 (v15.3)|August 2017|async main, tuple member name inference, default expression, pattern matching with generics|
+|C# 7.2|.Net 4.7|VS 2017 (v15.5)|November 2017|private protected access modifier, Span<T>, aka interior pointer, aka stackonly struct, everything else|
 
 
 **Note:**
 The language, framework as well as CLR are versioned independently.
 
-For more details refer to the following two sites  
+#### References
 
 * [C# in Depth](http://csharpindepth.com/Articles/Chapter1/Versions.aspx)  
 * [Stack Overflow](http://stackoverflow.com/questions/247621/what-are-the-correct-version-numbers-for-c)  
+* [Github-CSharpLang](https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md)
 
