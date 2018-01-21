@@ -31,4 +31,4 @@ However, there is a slight tweak that can be performed to make this possible. Wi
 That's all!! We are good to go now...
 Open the *Run dialog* and type edge in it to open up Microsoft Edge browser.
 
-Hope this was usefull!
+Hope this was useful!
