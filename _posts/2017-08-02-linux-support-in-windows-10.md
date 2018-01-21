@@ -15,6 +15,7 @@ tags:
 - Linux Subsystem
 - Ubuntu
 - Suse
+- WSL
 ---
 
 If you've been following the evolution of Windows 10 over the last few months, you must have also checked out the support for Linux in windows. In case you've not, then yes, you've read that right, Windows 10 (64 bit edition) has indeed been trying to support Linux. Microsoft calls this as **Windows Subsystem for Linux** acronymed as **WSL**.
