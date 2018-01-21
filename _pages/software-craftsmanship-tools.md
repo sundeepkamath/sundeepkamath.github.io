@@ -28,3 +28,7 @@ I would love to hear your opinions on these and any tools that you might want to
 * [Cmder](http://cmder.net/)
 If you've been looking for alternatives to the command line terminal in windows due to lack of some nifty features, look no further. Cmder is a console emulator with a nice simplistic look and feel and is also quite wonderful to use.
 
+#### Screenshot tools
+* [Lightshot](https://app.prntscr.com/en/index.html)
+This is quite a nifty tool from Skillbrains, which helps take customizable screenshots with ease. You can quickly annotate, add symbols, print or even share online in seconds. Anyone who still uses MSPaint or Snipping tool should consider switching over to this one.
+
