@@ -19,3 +19,6 @@ permalink: /usefulstuff/
 
 #### C\#
 * [C#.Net versions over the years]({{site.url}}/csharpnetoveryears)
+
+#### SOLID Principles
+* [Single Responsibility Principle]({{site.url}}/solid/single-responsibility-principle/)
