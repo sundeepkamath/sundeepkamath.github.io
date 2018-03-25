@@ -160,7 +160,10 @@ This will show up in the Swagger UI as ...
 
 ![Swagger UI license author details]({{site.url}}/assets/images/blogs/SwaggerAPIAuthorLicenseDetails.jpg)
 
-That's it!! We have our Web APIs up and running with Swagger documentation support.
+That's it!! We have our Web APIs up and running with Swagger documentation support.  
+
+You may clone a working version of this project from my GitHub Repository [here](https://github.com/sundeepkamath/TestBasicSwaggerAPISupport).  
+
 There are some additional configurations that can be done to improvise the Swagger support further. I'll take these up in a separate post.
 
 Hope this was useful!!
