@@ -29,6 +29,12 @@ At the time of writing this post the latest version was 3.6.4
 ## Install the python module youtube_dl
 You may install this using ...
 {% highlight python %}
+python -m pip install youtube-dl
+{% endhighlight %}
+
+## Download course videos
+We'll now use the installed module youtube_dl to download the course videos ...
+{% highlight python %}
 python -m youtube_dl -u <udemy username> -p <udemy password> https://www.udemy.com/<URL of course content page>
 {% endhighlight %}
 
