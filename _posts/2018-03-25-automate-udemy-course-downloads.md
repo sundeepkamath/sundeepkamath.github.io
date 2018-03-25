@@ -14,10 +14,11 @@ tags:
 - Udemy
 ---
 
-**Udemy** as we know is an online learning provider with quality video courses on vast verticals including programming, marketing, data science etc.
+**Udemy** as we know is an online learning provider with quality video courses on vast verticals including programming, marketing, data science etc.  
+
 I've been using this learning portal from a long time and have been recently looking at ways to download the personal **paid** video courses for **offline** viewing.
 
-While Udemy does provide options to download the videos on mobile its a chore really copying the same onto the desktop/laptop where I really prefer watching them. Considering this the plan was to find a automated way of downloading the videos online or build a script to achieve the same.
+While Udemy does provide options to download the videos on mobile its a chore really copying the same onto the desktop/laptop where I really prefer watching them. Considering this, the plan was to find a automated way of downloading the videos online or build a script to achieve the same.
 
 It seems there is already a python package available to do this job. I'll provide the steps here so that you can use the same for your use.
 
