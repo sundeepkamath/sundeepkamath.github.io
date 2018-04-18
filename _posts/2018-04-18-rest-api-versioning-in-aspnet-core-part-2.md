@@ -216,7 +216,7 @@ If you now try calling this API, you'll get the same response inspite of the api
 **Note:**
 You cannot have API versions and API neutral option being supported in the same controller.
 
-### Version advertisement
+### 4. Version advertisement
 Sometimes API's are split and deployed separately across versions, such as different run-time versions or traffic load balancing. In such cases its difficult to aggregate the implemented API versions across deployments.
 In such cases, one can use the `AdvertiseApiVersions` attribute. The advertised and implemented API versions are always aggregated together.
 
