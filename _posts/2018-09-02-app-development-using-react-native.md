@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
 
 * The app hosted in your mobile device will now refresh and display the text `Hello World!`.
 
-### References
+## References
 * [React Native - Getting Started](http://facebook.github.io/react-native/docs/getting-started)
 * [React Native Bridge](https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8)
 * [How React Native works](http://www.discoversdk.com/blog/how-react-native-works)
