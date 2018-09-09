@@ -4,11 +4,13 @@ title: SOLID - Single Responsibility Principle
 permalink: /solid/single-responsibility-principle/
 ---
 
-***Single Responsibility Principle (SRP)*** is the first amongst the five design principles stipulated by **SOLID**.
+***Single Responsibility Principle (SRP)*** is the **first** amongst the **five** design principles stipulated by **SOLID**.
 
-SRP states that a class should have only a **single responsibility**.. i.e. there should be only one reason for a change in a class.
+## Single Responsibility Principle
+> A class should have one and only **one reason** to **change**, meaning that a class should only have one job.
 
-We'll try to understand this better with an example. Lets take an example of a journal. We could write code to implement a personal journal as follows...
+## Let's understand better with an example
+Lets take an example of a journal. We could write code to implement a personal journal as follows...
 
 {% highlight C# %}
 using System;
