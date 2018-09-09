@@ -243,6 +243,7 @@ Press any key to continue . . .
 {% endhighlight %}
 
 The best part was that we did not have to touch any of the original classes for Specification nor the Filter class to achieve this, thus aligning to the **Open-Closed Principle**.
+You may download the code from my github repository [here](https://github.com/sundeepkamath/SOLIDPatterns)
 
 Hope this was useful!!
 
