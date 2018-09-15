@@ -193,7 +193,7 @@ Area of square (Width: 4, Height: 4) is 16
 Press any key to continue . . .
 {% endhighlight %}
 
-This time the output is as expected and aligned with the **Liskov Substitution Principle**.
+This time the output is as expected and aligned with the **Liskov Substitution Principle**. You may download the code from my github repository [here](https://github.com/sundeepkamath/SOLIDPatterns)
 
 Hope this was useful!
 
