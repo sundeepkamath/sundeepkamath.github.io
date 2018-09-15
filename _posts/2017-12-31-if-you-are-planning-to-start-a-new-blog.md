@@ -21,8 +21,6 @@ tags:
 - WSL
 ---
 
-<p><a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a></p>
-
 Hi there ! 2017 is nearing end, and well, while we celebrate for the wonderful memories of this year, it's also time to reflect back on the past year and come up with resolutions for the New Year. Personally, I'm happy that I've managed to keep this blog alive. It all started in the year 2015 when I started this blog, and its been glorious 3 years of blogging. If you've been following my blogs, I hope you found them useful all along. 
 
 I'm planning to completely overhaul my blogging platform for the new year. All that would remain same are the published articles, but all else is about to change. Well there are 2 main reasons why I feel this overhaul is necessary.

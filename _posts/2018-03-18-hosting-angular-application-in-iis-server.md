@@ -19,6 +19,8 @@ tags:
 
 ASP.Net Core provides a number of project templates out of the box, one of which is **ASP.Net Core with Angular**. You can use this to bootstrap your **Angular SPA** from within **.Net core** application and host it within IIS. However, many prefer using **Angular CLI** to develop an Angular application due to its simplicity and power and as part of this post I'll be focusing on hosting this in IIS. In case you are new to Angular, that's fine too as I'll be covering the basic steps required to create an Angular application.
 
+<p><a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a></p>
+
 We'll approach this in 4 steps
 1. Install Node and Angular CLI 
 2. Create a simple Angular SPA (hello-world application)
