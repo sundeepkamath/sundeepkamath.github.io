@@ -20,6 +20,8 @@ These days **REST APIs** are used everywhere. As applications begin to mature, t
 
 This is where **API Versioning** plays a crucial role. If done properly, it can help avoid chaos and maintain consistency across different API integrations. As part of this article, I'll explain the different versioning approaches that can be used for API versioning in **ASP.Net Core**.
 
+<p><a href="https://www.codeproject.com/script/Articles/BlogFeedList.aspx?amid=4854419" rel="tag" style="display:none">CodeProject</a></p>
+
 There are 4 out of the box approaches to version APIs...
 1. Query string parameter
 2. URL path segment
