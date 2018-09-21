@@ -24,3 +24,4 @@ permalink: /usefulstuff/
 * [Single Responsibility Principle]({{site.url}}/solid/single-responsibility-principle/)
 * [Open-Closed Principle]({{site.url}}/solid/open-closed-principle/)
 * [Liskov Substitution Principle]({{site.url}}/solid/liskov-substitution-principle/)
+* [Interface Segregation Principle]({{site.url}}/solid/interface-segregation-principle/)
