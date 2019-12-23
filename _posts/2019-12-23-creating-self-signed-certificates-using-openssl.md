@@ -186,3 +186,9 @@ Once the certificate is imported successfully, you'll find the **server certific
 The server certificate is now available for use with your website.
 
 Hope this was useful!!
+
+## References
+* [Kloud Blog - Hector Maldonado](https://blog.kloud.com.au/2016/06/12/creating-openssl-self-signed-certs-on-windows/)
+* [Openssl Certificate Authority - JamieLinux](https://jamielinux.com/docs/openssl-certificate-authority/index.html)
+* [Openssl adding eku - stackoverflow](https://serverfault.com/questions/571910/how-to-add-extended-key-usage-string-when-generating-a-self-signed-certificate-u)  
+* [Common OpenSSL Commands - SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html)
