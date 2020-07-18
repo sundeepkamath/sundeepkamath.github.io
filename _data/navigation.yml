@@ -10,6 +10,8 @@ main:
     url: /interestingreads/
   - title: "Useful Stuff"
     url: /usefulstuff/
+  - title: "Gaming"
+    url: /gaming-escapades/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
