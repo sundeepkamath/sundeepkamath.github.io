@@ -44,7 +44,7 @@ If you are starting a ***brand new*** organization from scratch, Azure AD could 
 
 If you are already running ***an established enterprise network***, you most likely already have Windows AD, and you might be planning to add AAD to manage your cloud infrastructure (Hybrid scenario).  
 
-In case of ***hybrid scenario*** it makes sense to use**Azure AD Connect**, which syncs data between the on-premise DCs and the cloud. Azure AD Connect also provides password hash synchronization, pass-through authentication, federation, and health monitoring. Those features allow your users to have the same user id and password, on-premise and in the cloud.
+In case of ***hybrid scenario*** it makes sense to use **Azure AD Connect**, which syncs data between the on-premise DCs and the cloud. Azure AD Connect also provides password hash synchronization, pass-through authentication, federation, and health monitoring. Those features allow your users to have the same user id and password, on-premise and in the cloud.
 
 ## What is the difference between SSO (Single Sign On) and Federation
 **SSO** allows a single authentication credential to access different systems within a *single organization*, while, a **federated identity management** system provides single access to *multiple systems across different enterprises*.
