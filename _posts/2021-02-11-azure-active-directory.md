@@ -18,11 +18,9 @@ tags:
 - cloud
 ---
 
-In this post I'll talk about what Azure Active Directory is and the critical role it plays w.r.t identity and access management in the Azure space.
-
 ![Post Banner]({{site.url}}/assets/images/blogs/active_directory/1_ActiveDirectoryHeader.png)
 
-Let's begin with ...
+In this post I'll talk about what Azure Active Directory is and the critical role it plays w.r.t identity and access management in the Azure space.
 
 ## What is Azure Active Directory?
 > **Azure Active Directory (AAD)** is Microsoft’s enterprise cloud-based ***identity and access management (IAM)*** solution. Its primary purpose is to provide **authentication** and **authorization** for applications in the cloud.
