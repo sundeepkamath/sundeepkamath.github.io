@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Azure Active Directory"
+title: "Azure Active Directory: A brief introduction"
 date: 2021-02-11 21:00:00 +0530
 permalink: /posts/azure-active-directory/
 author_profile: true
